@@ -372,4 +372,8 @@ iframe {
   .form-group:first-of-type {
     margin-right: 0;
   }
+  .skills-content {
+    flex-direction: column;
+  }
+
 }
